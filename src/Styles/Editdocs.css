@@ -1,0 +1,31 @@
+.editdocs{
+    height: 100vh;
+    width: 100vw;
+    background-color: grey;
+    font-family: 'Poppins', sans-serif;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.editor{
+    width: 80%;
+    box-shadow: 0px -2px 5px 2px rgba(181, 181, 181, 0.75);
+    -webkit-box-shadow: 0px -2px 5px 2px rgba(181, 181, 181, 0.75);
+    -moz-box-shadow: 0px -2px 5px 2px rgba(181, 181, 181, 0.75);
+    padding: 15px;
+    height: 80%;
+    background-color: white;
+}
+.ql-container.ql-snow {
+    border: none !important;
+}
+.share-btn{
+    margin-bottom: 1%;
+    border: none;
+    padding: 1%;
+    width: 8vw;
+    
+    border-radius: 30%;
+}
